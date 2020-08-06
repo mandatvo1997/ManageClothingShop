@@ -1,0 +1,10 @@
+C:\Users\MSI\Desktop\QuanLyQuanAo\QuanLyQuanAo\obj\Release\QuanLyQuanAo.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\QuanLyQuanAo\QuanLyQuanAo\obj\Release\QuanLyQuanAo.BillForm.resources
+C:\Users\MSI\Desktop\QuanLyQuanAo\QuanLyQuanAo\obj\Release\QuanLyQuanAo.NhanVien.resources
+C:\Users\MSI\Desktop\QuanLyQuanAo\QuanLyQuanAo\obj\Release\QuanLyQuanAo.Properties.Resources.resources
+C:\Users\MSI\Desktop\QuanLyQuanAo\QuanLyQuanAo\obj\Release\QuanLyQuanAo.ReportForm.resources
+C:\Users\MSI\Desktop\QuanLyQuanAo\QuanLyQuanAo\obj\Release\QuanLyQuanAo.SignIn.resources
+C:\Users\MSI\Desktop\QuanLyQuanAo\QuanLyQuanAo\obj\Release\QuanLyQuanAo.SignUp.resources
+C:\Users\MSI\Desktop\QuanLyQuanAo\QuanLyQuanAo\obj\Release\QuanLyQuanAo.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\QuanLyQuanAo\QuanLyQuanAo\obj\Release\RdlCompile.cache
+C:\Users\MSI\Desktop\QuanLyQuanAo\QuanLyQuanAo\obj\Release\RdlCompile.compiled

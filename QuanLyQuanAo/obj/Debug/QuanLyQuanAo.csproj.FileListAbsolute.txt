@@ -1,0 +1,73 @@
+C:\Users\MSI\Desktop\QuanLyQuanAo\QuanLyQuanAo\bin\Debug\QuanLyQuanAo.exe.config
+C:\Users\MSI\Desktop\QuanLyQuanAo\QuanLyQuanAo\bin\Debug\QuanLyQuanAo.exe
+C:\Users\MSI\Desktop\QuanLyQuanAo\QuanLyQuanAo\bin\Debug\QuanLyQuanAo.pdb
+C:\Users\MSI\Desktop\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.Properties.Resources.resources
+C:\Users\MSI\Desktop\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.SignIn.resources
+C:\Users\MSI\Desktop\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.SignUp.resources
+C:\Users\MSI\Desktop\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.exe
+C:\Users\MSI\Desktop\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.pdb
+D:\LTGD\New folder\QuanLyQuanAo\QuanLyQuanAo\bin\Debug\QuanLyQuanAo.exe.config
+D:\LTGD\New folder\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.exe
+D:\LTGD\New folder\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.pdb
+D:\LTGD\New folder\QuanLyQuanAo\QuanLyQuanAo\bin\Debug\QuanLyQuanAo.exe
+D:\LTGD\New folder\QuanLyQuanAo\QuanLyQuanAo\bin\Debug\QuanLyQuanAo.pdb
+D:\LTGD\New folder\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.csprojResolveAssemblyReference.cache
+D:\LTGD\New folder\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.NhanVien.resources
+D:\LTGD\New folder\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.Properties.Resources.resources
+D:\LTGD\New folder\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.SignIn.resources
+D:\LTGD\New folder\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.SignUp.resources
+D:\LTGD\New folder\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.csproj.GenerateResource.Cache
+C:\Users\MSI\Desktop\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.NhanVien.resources
+D:\LTGD\QuanLyQuanAo\QuanLyQuanAo\bin\Debug\QuanLyQuanAo.exe.config
+D:\LTGD\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.exe
+D:\LTGD\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.pdb
+D:\LTGD\QuanLyQuanAo\QuanLyQuanAo\bin\Debug\QuanLyQuanAo.exe
+D:\LTGD\QuanLyQuanAo\QuanLyQuanAo\bin\Debug\QuanLyQuanAo.pdb
+D:\LTGD\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.csprojResolveAssemblyReference.cache
+D:\LTGD\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.NhanVien.resources
+D:\LTGD\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.Properties.Resources.resources
+D:\LTGD\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.SignIn.resources
+D:\LTGD\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.SignUp.resources
+D:\LTGD\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.csproj.GenerateResource.Cache
+D:\LTGD\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.BillForm.resources
+C:\Users\MSI\Desktop\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.BillForm.resources
+D:\LTGD\QuanLyQuanAo\QuanLyQuanAo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\LTGD\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.ReportForm.resources
+D:\LTGD\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\RdlCompile.cache
+D:\LTGD\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\RdlCompile.compiled
+C:\Users\MSI\Desktop\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.ReportForm.resources
+C:\Users\MSI\Desktop\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\RdlCompile.cache
+C:\Users\MSI\Desktop\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\RdlCompile.compiled
+C:\Users\MSI\Desktop\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.csproj.CopyComplete
+D:\LTGD\Dao Tuan Kiet - Nguyen Nhat Truong_QLShop Quan Ao\QuanLyQuanAo\QuanLyQuanAo\bin\Debug\QuanLyQuanAo.exe.config
+D:\LTGD\Dao Tuan Kiet - Nguyen Nhat Truong_QLShop Quan Ao\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.exe
+D:\LTGD\Dao Tuan Kiet - Nguyen Nhat Truong_QLShop Quan Ao\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.pdb
+D:\LTGD\Dao Tuan Kiet - Nguyen Nhat Truong_QLShop Quan Ao\QuanLyQuanAo\QuanLyQuanAo\bin\Debug\QuanLyQuanAo.exe
+D:\LTGD\Dao Tuan Kiet - Nguyen Nhat Truong_QLShop Quan Ao\QuanLyQuanAo\QuanLyQuanAo\bin\Debug\QuanLyQuanAo.pdb
+D:\LTGD\Dao Tuan Kiet - Nguyen Nhat Truong_QLShop Quan Ao\QuanLyQuanAo\QuanLyQuanAo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\LTGD\Dao Tuan Kiet - Nguyen Nhat Truong_QLShop Quan Ao\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.csprojResolveAssemblyReference.cache
+D:\LTGD\Dao Tuan Kiet - Nguyen Nhat Truong_QLShop Quan Ao\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.BillForm.resources
+D:\LTGD\Dao Tuan Kiet - Nguyen Nhat Truong_QLShop Quan Ao\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.NhanVien.resources
+D:\LTGD\Dao Tuan Kiet - Nguyen Nhat Truong_QLShop Quan Ao\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.Properties.Resources.resources
+D:\LTGD\Dao Tuan Kiet - Nguyen Nhat Truong_QLShop Quan Ao\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.ReportForm.resources
+D:\LTGD\Dao Tuan Kiet - Nguyen Nhat Truong_QLShop Quan Ao\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.SignIn.resources
+D:\LTGD\Dao Tuan Kiet - Nguyen Nhat Truong_QLShop Quan Ao\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.SignUp.resources
+D:\LTGD\Dao Tuan Kiet - Nguyen Nhat Truong_QLShop Quan Ao\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.csproj.GenerateResource.Cache
+D:\LTGD\Dao Tuan Kiet - Nguyen Nhat Truong_QLShop Quan Ao\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\RdlCompile.cache
+D:\LTGD\Dao Tuan Kiet - Nguyen Nhat Truong_QLShop Quan Ao\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\RdlCompile.compiled
+C:\Users\rnsoh\Downloads\Lập Trình Giao Diện\Project Cuối\Lap Trinh Giao dien - Dao Tuan Kiet - Nguyen Nhat Truong_QLShop Quan Ao\QuanLyQuanAo\QuanLyQuanAo\bin\Debug\QuanLyQuanAo.exe.config
+C:\Users\rnsoh\Downloads\Lập Trình Giao Diện\Project Cuối\Lap Trinh Giao dien - Dao Tuan Kiet - Nguyen Nhat Truong_QLShop Quan Ao\QuanLyQuanAo\QuanLyQuanAo\bin\Debug\QuanLyQuanAo.exe
+C:\Users\rnsoh\Downloads\Lập Trình Giao Diện\Project Cuối\Lap Trinh Giao dien - Dao Tuan Kiet - Nguyen Nhat Truong_QLShop Quan Ao\QuanLyQuanAo\QuanLyQuanAo\bin\Debug\QuanLyQuanAo.pdb
+C:\Users\rnsoh\Downloads\Lập Trình Giao Diện\Project Cuối\Lap Trinh Giao dien - Dao Tuan Kiet - Nguyen Nhat Truong_QLShop Quan Ao\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.csprojAssemblyReference.cache
+C:\Users\rnsoh\Downloads\Lập Trình Giao Diện\Project Cuối\Lap Trinh Giao dien - Dao Tuan Kiet - Nguyen Nhat Truong_QLShop Quan Ao\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.BillForm.resources
+C:\Users\rnsoh\Downloads\Lập Trình Giao Diện\Project Cuối\Lap Trinh Giao dien - Dao Tuan Kiet - Nguyen Nhat Truong_QLShop Quan Ao\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.NhanVien.resources
+C:\Users\rnsoh\Downloads\Lập Trình Giao Diện\Project Cuối\Lap Trinh Giao dien - Dao Tuan Kiet - Nguyen Nhat Truong_QLShop Quan Ao\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.Properties.Resources.resources
+C:\Users\rnsoh\Downloads\Lập Trình Giao Diện\Project Cuối\Lap Trinh Giao dien - Dao Tuan Kiet - Nguyen Nhat Truong_QLShop Quan Ao\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.ReportForm.resources
+C:\Users\rnsoh\Downloads\Lập Trình Giao Diện\Project Cuối\Lap Trinh Giao dien - Dao Tuan Kiet - Nguyen Nhat Truong_QLShop Quan Ao\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.SignIn.resources
+C:\Users\rnsoh\Downloads\Lập Trình Giao Diện\Project Cuối\Lap Trinh Giao dien - Dao Tuan Kiet - Nguyen Nhat Truong_QLShop Quan Ao\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.SignUp.resources
+C:\Users\rnsoh\Downloads\Lập Trình Giao Diện\Project Cuối\Lap Trinh Giao dien - Dao Tuan Kiet - Nguyen Nhat Truong_QLShop Quan Ao\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.csproj.GenerateResource.cache
+C:\Users\rnsoh\Downloads\Lập Trình Giao Diện\Project Cuối\Lap Trinh Giao dien - Dao Tuan Kiet - Nguyen Nhat Truong_QLShop Quan Ao\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.csproj.CopyComplete
+C:\Users\rnsoh\Downloads\Lập Trình Giao Diện\Project Cuối\Lap Trinh Giao dien - Dao Tuan Kiet - Nguyen Nhat Truong_QLShop Quan Ao\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.exe
+C:\Users\rnsoh\Downloads\Lập Trình Giao Diện\Project Cuối\Lap Trinh Giao dien - Dao Tuan Kiet - Nguyen Nhat Truong_QLShop Quan Ao\QuanLyQuanAo\QuanLyQuanAo\obj\Debug\QuanLyQuanAo.pdb
